@@ -1,6 +1,8 @@
 # ALL Neural Network Notebooks from me at one place
 
-## Folder Structure
+I will keep all my Notebook (from colab) here as I make them. Everything from learning to implementation.
+
+## Folder Structure (Expected)
 
 ```bash
 All-of-NN/
